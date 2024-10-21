@@ -1,4 +1,3 @@
-```markdown
 # Bantads - Internet Banking
 
 Este projeto é o desenvolvimento de um sistema de Internet Banking para o banco fictício **BANTADS**, implementado utilizando Angular e Java Spring em uma arquitetura de microsserviços. A solução tem como foco atender três perfis de usuários: **Clientes**, **Gerentes** e **Administradores**, com funcionalidades específicas para cada perfil.
